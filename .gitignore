@@ -1,0 +1,16 @@
+# Build outputs & signing keys
+build/
+app/build/
+*.apk
+*.apk.idsig
+*.idsig
+*.aab
+*.jks
+*.keystore
+
+# Gradle & IDE
+.gradle/
+local.properties
+.idea/
+*.iml
+.DS_Store
